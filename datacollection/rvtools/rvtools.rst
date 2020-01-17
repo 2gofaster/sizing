@@ -16,6 +16,8 @@ RVTools is a free Windows .NET application which uses the VI SDK to collect info
 	For Hyper-V, see `Hyper-V Reporting Script <https://gallery.technet.microsoft.com/scriptcenter/Hyper-V-Reporting-Script-4adaf5d0>`_.
 
 	For XenServer, `export Resource Data <https://docs.citrix.com/en-us/xencenter/6-5/xs-xc-pools/xs-xc-pools-export-data.html>`_ using XenCenter.
+	
+	For AHV, use Nutanix Collector 2.0
 
 Running RVTools
 ---------------
