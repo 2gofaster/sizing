@@ -5,7 +5,7 @@ Sizer Overview
 What is Sizer?
 --------------
 
-Sizer is a web based tool developed to take complex workloads and recommend Nutanix nodes to meet the workload requirements.
+Sizer is a web based tool developed to take requirements for complex workloads and recommend Nutanix solutions to meet them. 
 
 Sizer currently supports the following workloads:
 
@@ -17,26 +17,27 @@ Sizer currently supports the following workloads:
 - RAW Input
 - File Services
 - Oracle
+- Objects
 
 On the following hardware platforms:
 
 - Nutanix NX
-- DellEMC XC/XC Core
+- HPE DX
+- Dell XC
 - Lenovo HX
-- IBM Power CS
 - Fujitsu
+- Inspur InMerge
 - Cisco UCS
-- HPE
-- Klas
-- Crystal
-- Cypress
+
 
 Sizer benefits include:
 
+- Allow you to focus on the workloads to drive a solution
 - Prescriptive, automatic sizing that accounts for Nutanix compute and storage overheads
 - Sizing details breakdown with easy to understand utilization graphs
 - The ability to share sizing scenarios between multiple users
 - Bill of Materials (BOM) generation to assist in quoting hardware
+- Collector based Sizing
 
 FAQ
 ---
